@@ -21,4 +21,4 @@ Out of this specialization I seek to improve my ability to **create and evaluate
 I will be storing my notes and assignments in this repository as a reference for myself and to inspire others to pursue this journey.
 
 Alexis Raymond
-([linkedin](https://www.linkedin.com/in/alexis-raymond-telfer/))
+([personal website](https://www.alexis-raymond.ca))
